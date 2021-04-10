@@ -1,0 +1,2 @@
+# epidmod
+epidemic modeling
